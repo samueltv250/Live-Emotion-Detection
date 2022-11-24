@@ -122,5 +122,5 @@ plt.show()
 
 
 # save model and weights
-model.save('modelV1.h5')
-model.save_weights('model_weightsV1.h5')
+model.save('modelV2.h5')
+model.save_weights('model_weightsV2.h5')

@@ -111,7 +111,7 @@ def videoMaker(inputFile = None):
 def main():
     # videoMaker('FaceTest.mp4')
 
-    videoMaker()
+    videoMaker('test.mp4')
 
 
 if __name__ == '__main__':
